@@ -1,4 +1,5 @@
 {
     "main": "main.js",
-    "name": "my-first-actor"
+    "name": "my-first-actor",
+    "dependencies": true
 }
