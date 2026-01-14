@@ -6,8 +6,10 @@ async function main() {
         console.log("Broma de Chuck Norris:");
         console.log(response.data.value);
     } catch (error) {
-        console.log("Error al obtener datos:", error.message);
+        console.log("¡Ocurrió un error! No se pudo obtener la broma.");
+        console.log("Detalle del error:", error.message);
     }
 }
 
 main();
+
