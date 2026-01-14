@@ -1,1 +1,1 @@
-console.log("Actor iniciado");
+console.log("Hola desde Canadá! Este es mi primer actor funcionando.");
